@@ -3,7 +3,7 @@
 </p>
 
 
-Bem vindo(a) ao meu perfil! Atualmente estou realizando minha graduação em desenvolvimento de software multiplafatorma na Fatec Matão :mortar_board:
+Bem vindo(a) ao meu perfil! Atualmente estagiando na área de dados e realizando minha graduação em desenvolvimento de software multiplafatorma na Fatec Matão :mortar_board:
 
 ## Redes sociais
 

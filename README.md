@@ -21,7 +21,7 @@ Bem vindo(a) ao meu perfil! Atualmente estagiando na área de dados e realizando
 </div>
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,csharp,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,csharp,html,css,c#)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliehmleal&layout=compact&theme=dark)](https://github.com/Juliehmleal/github-readme-stats)
 

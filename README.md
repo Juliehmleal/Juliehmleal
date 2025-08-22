@@ -12,16 +12,8 @@ Bem vindo(a) ao meu perfil! Atualmente estagiando na área de dados e realizando
 </div>
 
 ## Tecnologias que mais uso atualmente :computer:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,csharp,html,css,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,csharp,html,css,cs)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliehmleal&layout=compact&theme=dark)](https://github.com/Juliehmleal/github-readme-stats)
 
